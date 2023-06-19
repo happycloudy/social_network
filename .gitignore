@@ -1,0 +1,7 @@
+client/node_modules
+client/.yarn
+client/dist
+server/node_modules
+server/.yarn
+server/dist
+.idea
