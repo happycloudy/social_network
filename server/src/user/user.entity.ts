@@ -13,4 +13,7 @@ export class User {
 
     @Column()
     birthDate: Date
+
+    @Column()
+    password: string
 }
